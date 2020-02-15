@@ -19,4 +19,8 @@ $$
 D_n = D_{n-1} + \lambda_3 C_{n-1}
 $$
 
+The parameters are calculated using gradient descent to fit the observed data. The prediction results are plotted as:
+![](https://github.com/yaoxingcheng/SIR-model-for-novel-coronavirus-with-pytorch/blob/master/prediction.png)
+
+which indicates the peak may arrive at late Feburary under current assumption and observation.  
 
